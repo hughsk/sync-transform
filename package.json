@@ -1,7 +1,7 @@
 {
   "name": "sync-transform",
   "description": "Synchronously retrieve the output of a browserify-style transform stream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
     "from": "^0.1.3",
